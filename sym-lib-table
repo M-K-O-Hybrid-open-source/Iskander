@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DRIVER_8323_based-rescue)(type Legacy)(uri ${KIPRJMOD}/DRIVER_8323_based-rescue.lib)(options "")(descr ""))
+)
